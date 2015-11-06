@@ -1,0 +1,6 @@
+*.log
+*.bak
+.project
+.DS_Store
+.idea
+.settings
